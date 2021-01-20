@@ -21,5 +21,7 @@ class TestCase extends UnitTestCase
     /** @var Dispatcher $dispatcher */
     public $dispatcher;
 
-
+    public function setUp()
+    {
+    }
 }
