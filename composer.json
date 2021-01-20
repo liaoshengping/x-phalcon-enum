@@ -25,7 +25,7 @@
         }
     },
     "require": {
-        "php": ">=7.0",
+        "php": ">=5.6",
         "limingxinleo/x-trait-common": "^1.1",
         "limingxinleo/support-str": "^1.0"
     },
